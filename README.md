@@ -2,7 +2,7 @@
 
 A new Flutter application - myNamecard.
 
-![Image of myNamecard](https://eoys12.github.com/Simulator Screen Shot - iPhone SE (2nd generation) - 2020-06-03 at 13.37.20.png)
+![Image of myNamecard](https://github.com/eoys12/myNamecard/blob/master/Sreenshot.png)
 
 
 ## Getting Started
