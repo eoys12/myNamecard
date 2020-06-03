@@ -1,9 +1,6 @@
 # myNamecard
 
-A new Flutter application - myNamecard.
-
 ![Image of myNamecard](https://github.com/eoys12/myNamecard/blob/master/Sreenshot.png)
-
 
 ## Getting Started
 
